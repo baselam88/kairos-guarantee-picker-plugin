@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Picks the guarantee type matched to the specific objection blocking purchase \u2014 unconditional, conditional, anti-guarantee, or implied.",
+  "keywords": [
+    "guarantee",
+    "kairos",
+    "picker",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-guarantee-picker",
+  "repository": "https://github.com/baselam88/kairos-guarantee-picker-plugin",
+  "version": "0.1.0"
+}
